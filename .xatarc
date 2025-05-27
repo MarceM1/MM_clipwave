@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Marcelo-Melogno-s-workspace-bb0b4b.us-east-1.xata.sh/db/mm_clipwave",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
