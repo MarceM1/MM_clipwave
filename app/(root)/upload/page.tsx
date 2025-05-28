@@ -149,7 +149,7 @@ const Upload = () => {
             })
             console.log('videoId: ', videoId)
 
-            router.push(`/video/${videoId}`)
+            router.push('/')
         } catch (error) {
             console.log('Error submitting video:', error);
         } finally {
